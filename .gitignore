@@ -1,3 +1,5 @@
 venv/
 .env
 __pycache__/
+example.png
+test_notification.py
