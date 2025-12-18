@@ -84,6 +84,7 @@ async def main():
             "Jan van Galenstraat 500",
             "Nieuwe Osdorpergracht 412 E",
             "Nieuwe Osdorpergracht 374 K",
+            "Spaklerweg 14 D-21",
         ]
 
         # Vergelijk titles
