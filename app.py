@@ -87,6 +87,7 @@ async def main():
             "Spaklerweg 14 D-21",
             "Schipluidenlaan 912",
             "Schipluidenlaan 636",
+            "Panamalaan 431",
         ]
 
         # Vergelijk titles
