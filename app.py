@@ -92,6 +92,10 @@ async def main():
             "Panamalaan 413",
             "Panamalaan 277",
             "Nieuwe Osdorpergracht 422 A",
+            "Jan van Galenstraat 566",
+            "Jan van Galenstraat 666",
+            "Jan van Galenstraat 650",
+            
             
         ]
 
